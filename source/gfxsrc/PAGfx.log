@@ -1,0 +1,56 @@
+PA Gfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Transparent Color : Magenta
+
+39 sprites :
+  player : 256colors, 32x288, Pal : player_Pal, -> player_Sprite
+  player_head : 256colors, 16x16, Pal : player_Pal, -> player_head_Sprite
+  player_arm : 256colors, 32x128, Pal : player_Pal, -> player_arm_Sprite
+  superplayer : 256colors, 32x288, Pal : superplayer_Pal, -> superplayer_Sprite
+  effects : 256colors, 8x144, Pal : effects_Pal, -> effects_Sprite
+  effect_explosion1 : 256colors, 16x96, Pal : effects_Pal, -> effect_explosion1_Sprite
+  effect_humo : 256colors, 16x128, Pal : effects_Pal, -> effect_humo_Sprite
+  effect_raise : 256colors, 8x8, Pal : effects_Pal, -> effect_raise_Sprite
+  effect_ballraise : 256colors, 8x40, Pal : effects_Pal, -> effect_ballraise_Sprite
+  items : 256colors, 16x64, Pal : itempal_Pal, -> items_Sprite
+  autorun : 256colors, 32x32, Pal : itempal_Pal, -> autorun_Sprite
+  coin : 256colors, 8x24, Pal : itempal_Pal, -> coin_Sprite
+  pause_select : 256colors, 8x8, Pal : effects_Pal, -> pause_select_Sprite
+  pause_text : 256colors, 64x32, Pal : effects_Pal, -> pause_text_Sprite
+  status_weapon : 256colors, 16x16, Pal : weaponstatus_Pal, -> status_weapon_Sprite
+  status_weapon_1 : 256colors, 16x112, Pal : weaponstatus_Pal, -> status_weapon_1_Sprite
+  status_weapon_2 : 256colors, 16x32, Pal : weaponstatus_Pal, -> status_weapon_2_Sprite
+  weapon_1 : 256colors, 16x48, Pal : weapon_Pal, -> weapon_1_Sprite
+  weapon_2 : 256colors, 16x80, Pal : weapon_Pal, -> weapon_2_Sprite
+  weapon_3 : 256colors, 8x8, Pal : weapon_Pal, -> weapon_3_Sprite
+  weapon_4 : 256colors, 8x8, Pal : weapon_Pal, -> weapon_4_Sprite
+  weapon_5 : 256colors, 16x16, Pal : weapon_Pal, -> weapon_5_Sprite
+  weapon_6 : 256colors, 16x80, Pal : weapon_Pal, -> weapon_6_Sprite
+  weapon_7 : 256colors, 16x16, Pal : weapon_Pal, -> weapon_7_Sprite
+  weapon_8 : 256colors, 16x48, Pal : weapon_Pal, -> weapon_8_Sprite
+  weapon_9 : 256colors, 16x48, Pal : weapon_Pal, -> weapon_9_Sprite
+  monster_0 : 256colors, 32x192, Pal : monster_Pal, -> monster_0_Sprite
+  monster_1 : 256colors, 32x128, Pal : monster_Pal, -> monster_1_Sprite
+  monster_2 : 256colors, 32x128, Pal : monster_Pal, -> monster_2_Sprite
+  monster_3 : 256colors, 32x128, Pal : monster_Pal, -> monster_3_Sprite
+  monster_4 : 256colors, 64x320, Pal : monster_Pal, -> monster_4_Sprite
+  monster_5 : 256colors, 32x128, Pal : monster_Pal, -> monster_5_Sprite
+  monster_6 : 256colors, 32x64, Pal : monster_Pal, -> monster_6_Sprite
+  monster_7 : 256colors, 32x32, Pal : monster_Pal, -> monster_7_Sprite
+  monster_8 : 256colors, 32x32, Pal : monster_Pal, -> monster_8_Sprite
+  boss_0 : 256colors, 32x224, Pal : monster_Pal, -> boss_0_Sprite
+  boss_1 : 256colors, 32x224, Pal : monster_Pal, -> boss_1_Sprite
+  boss_2 : 256colors, 32x288, Pal : monster_Pal, -> boss_2_Sprite
+  boss_3 : 256colors, 32x352, Pal : monster_Pal, -> boss_3_Sprite
+
+7 palettes :
+  player_Pal, 25 colors
+  superplayer_Pal, 16 colors
+  effects_Pal, 39 colors
+  itempal_Pal, 61 colors
+  weaponstatus_Pal, 67 colors
+  weapon_Pal, 39 colors
+  monster_Pal, 109 colors
+
+Finished !

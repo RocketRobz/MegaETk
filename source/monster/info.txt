@@ -1,0 +1,9 @@
+ array data:
+id, hp, weapon, speed, move type, particles, size, w1, w2, h1, h2
+
+
+monster vars:
+.collision >>	0 = none
+		1 = flip (wall only)
+		2 = flip (wall + hole)
+		3 = jump (hole only)

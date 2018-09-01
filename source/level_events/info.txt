@@ -1,0 +1,21 @@
+//pre-map info (8 numbers)
+//0: total events,
+//1: hero start X,
+//2: hero start Y,
+//3: background,
+//4: map width (number of tiles)
+//5: tiles gfx used
+//6: ?
+//7: level type (0=normal, 1= boss)
+
+//event data (a,b,c,d)
+//a=event type: 
+//	0=nothing
+//	1=Hero start position
+//	2=teleport
+//	3=monster
+//	4=item
+//	5=other
+//b=X (tile)
+//c=Y (tile)
+//d= ID of monster, item, npc..

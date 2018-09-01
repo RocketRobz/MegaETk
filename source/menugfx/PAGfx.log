@@ -1,0 +1,90 @@
+PA Gfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+No palette name found for file text.png, the palette text will be given to him...
+No palette name found for file title_text.png, the palette title_text will be given to him...
+No palette name found for file hp_bar.png, the palette hp_bar will be given to him...
+No palette name found for file ammo_bar.png, the palette ammo_bar will be given to him...
+No palette name found for file arrow.png, the palette arrow will be given to him...
+No palette name found for file slotempty.png, the palette slotempty will be given to him...
+No palette name found for file shop_select.png, the palette shop_select will be given to him...
+No palette name found for file map_pointer.png, the palette map_pointer will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file title_bg1.png, the palette title_bg1 will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file title_bg2.png, the palette title_bg2 will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file title_bg3.png, the palette title_bg3 will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file game_shop.png, the palette game_shop will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file game_shop_bottom.png, the palette game_shop_bottom will be given to him...
+No palette name found for file menu_bg.png, the palette menu_bg will be given to him...
+No palette name found for file menu_bgd.png, the palette menu_bgd will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file menu_extras.png, the palette menu_extras will be given to him...
+No palette name found for file menu_bggame.png, the palette menu_bggame will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file game_selectsave.png, the palette game_selectsave will be given to him...
+Transparent Color : Magenta
+
+22 sprites :
+  text : 256colors, 112x16, Pal : text_Pal, -> text_Sprite
+  title_text : 256colors, 16x240, Pal : title_text_Pal, -> title_text_Sprite
+  hp_bar : 256colors, 8x88, Pal : hp_bar_Pal, -> hp_bar_Sprite
+  ammo_bar : 256colors, 8x88, Pal : ammo_bar_Pal, -> ammo_bar_Sprite
+  arrow : 256colors, 16x48, Pal : arrow_Pal, -> arrow_Sprite
+  lvlthumb : 256colors, 64x512, Pal : lvl_Pal, -> lvlthumb_Sprite
+  lvlsel : 256colors, 64x32, Pal : lvl_Pal, -> lvlsel_Sprite
+  slotempty : 256colors, 32x64, Pal : slotempty_Pal, -> slotempty_Sprite
+  savebutton : 256colors, 64x64, Pal : buttons_Pal, -> savebutton_Sprite
+  backbutton : 256colors, 64x64, Pal : buttons_Pal, -> backbutton_Sprite
+  shopbutton : 256colors, 64x64, Pal : buttons_Pal, -> shopbutton_Sprite
+  buybutton : 256colors, 64x64, Pal : buttons_Pal, -> buybutton_Sprite
+  exitbutton : 256colors, 64x64, Pal : buttons_Pal, -> exitbutton_Sprite
+  selectbutton : 256colors, 64x64, Pal : buttons_Pal, -> selectbutton_Sprite
+  selectlevelbutton : 256colors, 64x64, Pal : buttons_Pal, -> selectlevelbutton_Sprite
+  selectsavebutton : 256colors, 64x64, Pal : buttons_Pal, -> selectsavebutton_Sprite
+  mode_easy : 256colors, 64x64, Pal : buttons_Pal, -> mode_easy_Sprite
+  mode_normal : 256colors, 64x64, Pal : buttons_Pal, -> mode_normal_Sprite
+  mode_hard : 256colors, 64x64, Pal : buttons_Pal, -> mode_hard_Sprite
+  shop_select : 256colors, 32x80, Pal : shop_select_Pal, -> shop_select_Sprite
+  map : 256colors, 64x32, Pal : map_Pal, -> map_Sprite
+  map_pointer : 256colors, 8x48, Pal : map_pointer_Pal, -> map_pointer_Sprite
+
+10 backgrounds :
+  title_bg1 : TileBg, 256x192, Pal : title_bg1_Pal, 307 tiles -> title_bg1_Tiles and title_bg1_Map
+  title_bg2 : TileBg, 256x192, Pal : title_bg2_Pal, 503 tiles -> title_bg2_Tiles and title_bg2_Map
+  title_bg3 : TileBg, 256x192, Pal : title_bg3_Pal, 513 tiles -> title_bg3_Tiles and title_bg3_Map
+  game_shop : TileBg, 256x192, Pal : game_shop_Pal, 590 tiles -> game_shop_Tiles and game_shop_Map
+  game_shop_bottom : TileBg, 256x192, Pal : game_shop_bottom_Pal, 220 tiles -> game_shop_bottom_Tiles and game_shop_bottom_Map
+  menu_bg : TileBg, 256x192, Pal : menu_bg_Pal, 384 tiles -> menu_bg_Tiles and menu_bg_Map
+  menu_bgd : TileBg, 256x192, Pal : menu_bgd_Pal, 348 tiles -> menu_bgd_Tiles and menu_bgd_Map
+  menu_extras : TileBg, 256x192, Pal : menu_extras_Pal, 278 tiles -> menu_extras_Tiles and menu_extras_Map
+  menu_bggame : TileBg, 256x192, Pal : menu_bggame_Pal, 635 tiles -> menu_bggame_Tiles and menu_bggame_Map
+  game_selectsave : TileBg, 256x192, Pal : game_selectsave_Pal, 303 tiles -> game_selectsave_Tiles and game_selectsave_Map
+
+21 palettes :
+  text_Pal, 27 colors
+  title_text_Pal, 4 colors
+  hp_bar_Pal, 11 colors
+  ammo_bar_Pal, 9 colors
+  arrow_Pal, 9 colors
+  lvl_Pal, 164 colors
+  slotempty_Pal, 13 colors
+  buttons_Pal, 171 colors
+  shop_select_Pal, 4 colors
+  map_Pal, 8 colors
+  map_pointer_Pal, 13 colors
+  title_bg1_Pal, 148 colors
+  title_bg2_Pal, 35 colors
+  title_bg3_Pal, 244 colors
+  game_shop_Pal, 77 colors
+  game_shop_bottom_Pal, 49 colors
+  menu_bg_Pal, 8 colors
+  menu_bgd_Pal, 36 colors
+  menu_extras_Pal, 95 colors
+  menu_bggame_Pal, 192 colors
+  game_selectsave_Pal, 80 colors
+
+Finished !

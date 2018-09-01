@@ -1,0 +1,8 @@
+MAX DiSTANCE (ALTO)with jump:
+ 7tiles
+
+MAX DISTANCE with jump+dash:
+ 16tiles
+
+MAX DISTANCE with jump:
+ 9tiles

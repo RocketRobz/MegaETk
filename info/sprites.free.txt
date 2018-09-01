@@ -1,0 +1,24 @@
+Sprite types:
+sprites[x].free --------------
+0=none
+1=hero
+2=shoot
+3=monster
+4=killing monster effect 1
+5=killing sprite effect 1
+6=particle
+7=humo
+8=item
+9=raise particle
+10=status/options on screen
+11=teleport/other
+12=monster shoot
+13=monster part
+14=ball raise particle
+15=coin
+16=BOSS
+17=BOSS PART
+18=explosion effect
+19=instant kill
+20=obstaculo que colisiona
+21=boss door (se cierra cuando lo adelantas)

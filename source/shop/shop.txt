@@ -1,0 +1,20 @@
+HP UP 1000 2000 4000 8000 16000 32000...
+AP UP (random weapon) 5000
+MOV SPEED UP 10000
+JUMP POWER UP 10000
+
+
+Map 500
+Monster Info 5000
+
+Laser Weapon 10000
+Flamethrower 20000
+
+Crouch 2000
+Dash 5000
+Jump+Dash 5000
+Aim 360º 10000
+Double Jump 25000
+Shield 50000
+Gold Armor 100000
+Gold Arm 150000

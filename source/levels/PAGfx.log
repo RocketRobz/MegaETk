@@ -1,0 +1,92 @@
+PA Gfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file tilegfx0.png, the palette tilegfx0 will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file tilegfx1.png, the palette tilegfx1 will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file tilegfx2.png, the palette tilegfx2 will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file tilegfx3.png, the palette tilegfx3 will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file tilegfx4.png, the palette tilegfx4 will be given to him...
+No palette name found for file bg_back_0.png, the palette bg_back_0 will be given to him...
+No palette name found for file bg_back_1.png, the palette bg_back_1 will be given to him...
+No palette name found for file bg_back_2.png, the palette bg_back_2 will be given to him...
+No palette name found for file bg_hills_0.png, the palette bg_hills_0 will be given to him...
+No palette name found for file bg_hills_1.png, the palette bg_hills_1 will be given to him...
+No palette name found for file bg_hills_2.png, the palette bg_hills_2 will be given to him...
+No palette name found for file info.png, the palette info will be given to him...
+Transparent Color : Magenta
+
+53 backgrounds :
+  tilegfx0 : TileBg, 1024x32, Pal : tilegfx0_Pal, 42 tiles -> tilegfx0_Tiles and tilegfx0_Map
+  tilegfx1 : TileBg, 1024x32, Pal : tilegfx1_Pal, 94 tiles -> tilegfx1_Tiles and tilegfx1_Map
+  tilegfx2 : TileBg, 1024x32, Pal : tilegfx2_Pal, 72 tiles -> tilegfx2_Tiles and tilegfx2_Map
+  tilegfx3 : TileBg, 1024x32, Pal : tilegfx3_Pal, 66 tiles -> tilegfx3_Tiles and tilegfx3_Map
+  tilegfx4 : TileBg, 1024x32, Pal : tilegfx4_Pal, 42 tiles -> tilegfx4_Tiles and tilegfx4_Map
+  bg_back_0 : LargeMap, 384x192, Pal : bg_back_0_Pal, 137 tiles -> bg_back_0_Tiles and bg_back_0_Map
+  bg_back_1 : LargeMap, 384x192, Pal : bg_back_1_Pal, 25 tiles -> bg_back_1_Tiles and bg_back_1_Map
+  bg_back_2 : LargeMap, 384x192, Pal : bg_back_2_Pal, 277 tiles -> bg_back_2_Tiles and bg_back_2_Map
+  bg_hills_0 : LargeMap, 280x192, Pal : bg_hills_0_Pal, 233 tiles -> bg_hills_0_Tiles and bg_hills_0_Map
+  bg_hills_1 : LargeMap, 280x192, Pal : bg_hills_1_Pal, 33 tiles -> bg_hills_1_Tiles and bg_hills_1_Map
+  bg_hills_2 : LargeMap, 280x192, Pal : bg_hills_2_Pal, 339 tiles -> bg_hills_2_Tiles and bg_hills_2_Map
+  level_1 : LargeMap, 1024x256, Pal : tilegfx2_Pal, 72 tiles -> level_1_Tiles and level_1_Map
+  level_2 : LargeMap, 1024x256, Pal : tilegfx2_Pal, 72 tiles -> level_2_Tiles and level_2_Map
+  level_3 : LargeMap, 1024x256, Pal : tilegfx2_Pal, 72 tiles -> level_3_Tiles and level_3_Map
+  level_4 : LargeMap, 1024x256, Pal : tilegfx2_Pal, 72 tiles -> level_4_Tiles and level_4_Map
+  level_5 : LargeMap, 1024x256, Pal : tilegfx2_Pal, 72 tiles -> level_5_Tiles and level_5_Map
+  level_6 : LargeMap, 1024x256, Pal : tilegfx2_Pal, 72 tiles -> level_6_Tiles and level_6_Map
+  level_7 : LargeMap, 1024x256, Pal : tilegfx2_Pal, 72 tiles -> level_7_Tiles and level_7_Map
+  level_8 : LargeMap, 1024x256, Pal : tilegfx2_Pal, 72 tiles -> level_8_Tiles and level_8_Map
+  level_9 : LargeMap, 1024x256, Pal : tilegfx2_Pal, 72 tiles -> level_9_Tiles and level_9_Map
+  level_10 : LargeMap, 1024x256, Pal : tilegfx1_Pal, 94 tiles -> level_10_Tiles and level_10_Map
+  level_11 : LargeMap, 1024x256, Pal : tilegfx1_Pal, 94 tiles -> level_11_Tiles and level_11_Map
+  level_12 : LargeMap, 1024x256, Pal : tilegfx1_Pal, 94 tiles -> level_12_Tiles and level_12_Map
+  level_13 : LargeMap, 1024x256, Pal : tilegfx1_Pal, 94 tiles -> level_13_Tiles and level_13_Map
+  level_14 : LargeMap, 1024x256, Pal : tilegfx1_Pal, 94 tiles -> level_14_Tiles and level_14_Map
+  level_15 : LargeMap, 1024x256, Pal : tilegfx1_Pal, 94 tiles -> level_15_Tiles and level_15_Map
+  level_16 : LargeMap, 1024x256, Pal : tilegfx1_Pal, 94 tiles -> level_16_Tiles and level_16_Map
+  level_17 : LargeMap, 1024x256, Pal : tilegfx1_Pal, 94 tiles -> level_17_Tiles and level_17_Map
+  level_18 : LargeMap, 1024x256, Pal : tilegfx3_Pal, 94 tiles -> level_18_Tiles and level_18_Map
+  level_19 : LargeMap, 1024x256, Pal : tilegfx3_Pal, 66 tiles -> level_19_Tiles and level_19_Map
+  level_20 : LargeMap, 1024x256, Pal : tilegfx3_Pal, 66 tiles -> level_20_Tiles and level_20_Map
+  level_21 : LargeMap, 1024x256, Pal : tilegfx3_Pal, 66 tiles -> level_21_Tiles and level_21_Map
+  level_22 : LargeMap, 1024x256, Pal : tilegfx3_Pal, 66 tiles -> level_22_Tiles and level_22_Map
+  level_23 : LargeMap, 1024x256, Pal : tilegfx3_Pal, 66 tiles -> level_23_Tiles and level_23_Map
+  level_24 : LargeMap, 1024x256, Pal : tilegfx3_Pal, 66 tiles -> level_24_Tiles and level_24_Map
+  level_25 : LargeMap, 1024x256, Pal : tilegfx3_Pal, 66 tiles -> level_25_Tiles and level_25_Map
+  level_26 : LargeMap, 1024x256, Pal : tilegfx3_Pal, 66 tiles -> level_26_Tiles and level_26_Map
+  level_27 : LargeMap, 1024x256, Pal : tilegfx3_Pal, 66 tiles -> level_27_Tiles and level_27_Map
+  level_28 : LargeMap, 1024x256, Pal : tilegfx4_Pal, 42 tiles -> level_28_Tiles and level_28_Map
+  level_29 : LargeMap, 1024x256, Pal : tilegfx4_Pal, 42 tiles -> level_29_Tiles and level_29_Map
+  level_30 : LargeMap, 1024x256, Pal : tilegfx4_Pal, 42 tiles -> level_30_Tiles and level_30_Map
+  level_31 : LargeMap, 1024x256, Pal : tilegfx4_Pal, 42 tiles -> level_31_Tiles and level_31_Map
+  level_32 : LargeMap, 1024x256, Pal : tilegfx4_Pal, 42 tiles -> level_32_Tiles and level_32_Map
+  level_33 : LargeMap, 1024x256, Pal : tilegfx4_Pal, 42 tiles -> level_33_Tiles and level_33_Map
+  level_34 : LargeMap, 1024x256, Pal : tilegfx4_Pal, 42 tiles -> level_34_Tiles and level_34_Map
+  level_35 : LargeMap, 1024x256, Pal : tilegfx4_Pal, 42 tiles -> level_35_Tiles and level_35_Map
+  level_36 : LargeMap, 1024x256, Pal : tilegfx4_Pal, 42 tiles -> level_36_Tiles and level_36_Map
+  level_37 : LargeMap, 1024x256, Pal : tilegfx2_Pal, 72 tiles -> level_37_Tiles and level_37_Map
+  level_38 : LargeMap, 1024x256, Pal : tilegfx1_Pal, 94 tiles -> level_38_Tiles and level_38_Map
+  level_39 : LargeMap, 1024x256, Pal : tilegfx3_Pal, 78 tiles -> level_39_Tiles and level_39_Map
+  level_40 : LargeMap, 1024x256, Pal : tilegfx4_Pal, 42 tiles -> level_40_Tiles and level_40_Map
+  level_41 : LargeMap, 1024x256, Pal : tilegfx4_Pal, 42 tiles -> level_41_Tiles and level_41_Map
+  info : TileBg, 256x256, Pal : info_Pal, 27 tiles -> info_Tiles and info_Map
+
+12 palettes :
+  tilegfx0_Pal, 13 colors
+  tilegfx1_Pal, 24 colors
+  tilegfx2_Pal, 52 colors
+  tilegfx3_Pal, 59 colors
+  tilegfx4_Pal, 27 colors
+  bg_back_0_Pal, 44 colors
+  bg_back_1_Pal, 9 colors
+  bg_back_2_Pal, 23 colors
+  bg_hills_0_Pal, 45 colors
+  bg_hills_1_Pal, 7 colors
+  bg_hills_2_Pal, 33 colors
+  info_Pal, 45 colors
+
+Finished !

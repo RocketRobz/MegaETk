@@ -1,0 +1,13 @@
+PA Gfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+No palette name for file font.gif, using font_Pal...
+Transparent Color : Magenta
+
+1 backgrounds :
+  font : TileBg, 256x72, Pal : font_Pal, 108 tiles -> font_Tiles and font_Map
+
+1 palettes :
+  font_Pal, 19 colors
+
+Finished !

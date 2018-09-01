@@ -1,0 +1,48 @@
+PA Gfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+No palette name found for file editor_arrow.png, the palette editor_arrow will be given to him...
+No palette name found for file editor_extra.png, the palette editor_extra will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file editor_leveloptions.png, the palette editor_leveloptions will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file editor_levelmanager.png, the palette editor_levelmanager will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file editor_new.png, the palette editor_new will be given to him...
+Transparent Color : Magenta
+
+16 sprites :
+  editor_arrow : 256colors, 16x64, Pal : editor_arrow_Pal, -> editor_arrow_Sprite
+  editor_bg0 : 256colors, 64x64, Pal : ed_bg_Pal, -> editor_bg0_Sprite
+  editor_bg1 : 256colors, 64x64, Pal : ed_bg_Pal, -> editor_bg1_Sprite
+  editor_bg2 : 256colors, 64x64, Pal : ed_bg_Pal, -> editor_bg2_Sprite
+  editor_bg3 : 256colors, 64x64, Pal : ed_bg_Pal, -> editor_bg3_Sprite
+  editor_tilegfx1 : 256colors, 64x64, Pal : ed_tg_Pal, -> editor_tilegfx1_Sprite
+  editor_tilegfx2 : 256colors, 64x64, Pal : ed_tg_Pal, -> editor_tilegfx2_Sprite
+  editor_tilegfx3 : 256colors, 64x64, Pal : ed_tg_Pal, -> editor_tilegfx3_Sprite
+  editor_tilegfx4 : 256colors, 64x64, Pal : ed_tg_Pal, -> editor_tilegfx4_Sprite
+  editor_testbutton : 256colors, 64x64, Pal : ed_buttons_Pal, -> editor_testbutton_Sprite
+  editor_newbutton : 256colors, 64x64, Pal : ed_buttons_Pal, -> editor_newbutton_Sprite
+  editor_loadbutton : 256colors, 64x64, Pal : ed_buttons_Pal, -> editor_loadbutton_Sprite
+  editor_editmapbutton : 256colors, 64x64, Pal : ed_buttons_Pal, -> editor_editmapbutton_Sprite
+  editor_eventsbutton : 256colors, 64x64, Pal : ed_buttons_Pal, -> editor_eventsbutton_Sprite
+  editor_levelmanager_selbar : 256colors, 64x32, Pal : lm_selbar_Pal, -> editor_levelmanager_selbar_Sprite
+  editor_extra : 256colors, 16x32, Pal : editor_extra_Pal, -> editor_extra_Sprite
+
+3 backgrounds :
+  editor_leveloptions : TileBg, 256x192, Pal : editor_leveloptions_Pal, 429 tiles -> editor_leveloptions_Tiles and editor_leveloptions_Map
+  editor_levelmanager : TileBg, 256x192, Pal : editor_levelmanager_Pal, 334 tiles -> editor_levelmanager_Tiles and editor_levelmanager_Map
+  editor_new : TileBg, 256x192, Pal : editor_new_Pal, 466 tiles -> editor_new_Tiles and editor_new_Map
+
+9 palettes :
+  editor_arrow_Pal, 45 colors
+  ed_bg_Pal, 185 colors
+  ed_tg_Pal, 85 colors
+  ed_buttons_Pal, 129 colors
+  lm_selbar_Pal, 21 colors
+  editor_extra_Pal, 7 colors
+  editor_leveloptions_Pal, 83 colors
+  editor_levelmanager_Pal, 88 colors
+  editor_new_Pal, 118 colors
+
+Finished !

@@ -1,0 +1,8 @@
+-PALETTE	--FOR--
+0		hero
+1		shoots
+2		effects
+3		blink
+4		humo
+5-10		monster palettes
+11-16		Item palettes

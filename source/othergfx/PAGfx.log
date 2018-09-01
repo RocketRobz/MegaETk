@@ -1,0 +1,17 @@
+PA Gfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Transparent Color : Magenta
+
+6 sprites :
+  blank : 256colors, 8x8, Pal : otherpal_Pal, -> blank_Sprite
+  other_1 : 256colors, 32x32, Pal : otherpal_Pal, -> other_1_Sprite
+  other_2 : 256colors, 32x32, Pal : otherpal_Pal, -> other_2_Sprite
+  other_3 : 256colors, 32x32, Pal : otherpal_Pal, -> other_3_Sprite
+  other_4 : 256colors, 32x64, Pal : otherpal_Pal, -> other_4_Sprite
+  door : 256colors, 16x32, Pal : otherpal_Pal, -> door_Sprite
+
+1 palettes :
+  otherpal_Pal, 52 colors
+
+Finished !

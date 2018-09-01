@@ -1,0 +1,18 @@
+PA Gfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file neoflash.png, the palette neoflash will be given to him...
+No background mode specified for background , putting it to Tiled Background by default
+No palette name found for file etk.png, the palette etk will be given to him...
+Transparent Color : Magenta
+
+2 backgrounds :
+  neoflash : TileBg, 256x192, Pal : neoflash_Pal, 599 tiles -> neoflash_Tiles and neoflash_Map
+  etk : TileBg, 256x192, Pal : etk_Pal, 732 tiles -> etk_Tiles and etk_Map
+
+2 palettes :
+  neoflash_Pal, 252 colors
+  etk_Pal, 254 colors
+
+Finished !
